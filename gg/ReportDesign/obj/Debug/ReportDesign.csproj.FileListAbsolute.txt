@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\gg\ReportDesign\bin\Debug\ReportDesign.exe.config
+C:\Users\Administrator\source\repos\gg\ReportDesign\bin\Debug\ReportDesign.exe
+C:\Users\Administrator\source\repos\gg\ReportDesign\bin\Debug\ReportDesign.pdb
+C:\Users\Administrator\source\repos\gg\ReportDesign\obj\Debug\ReportDesign.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\gg\ReportDesign\obj\Debug\ReportDesign.Properties.Resources.resources
+C:\Users\Administrator\source\repos\gg\ReportDesign\obj\Debug\ReportDesign.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\gg\ReportDesign\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\source\repos\gg\ReportDesign\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\source\repos\gg\ReportDesign\obj\Debug\ReportDesign.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\gg\ReportDesign\obj\Debug\ReportDesign.exe
+C:\Users\Administrator\source\repos\gg\ReportDesign\obj\Debug\ReportDesign.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gg", "gg\gg.csproj", "{95BD074D-B7C0-4B3A-A6A4-B690A5AE83BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportDesign", "ReportDesign\ReportDesign.csproj", "{D2442BA6-FFDA-48D5-87B9-F57A05832386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95BD074D-B7C0-4B3A-A6A4-B690A5AE83BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BD074D-B7C0-4B3A-A6A4-B690A5AE83BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BD074D-B7C0-4B3A-A6A4-B690A5AE83BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BD074D-B7C0-4B3A-A6A4-B690A5AE83BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2442BA6-FFDA-48D5-87B9-F57A05832386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2442BA6-FFDA-48D5-87B9-F57A05832386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2442BA6-FFDA-48D5-87B9-F57A05832386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2442BA6-FFDA-48D5-87B9-F57A05832386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD38499A-F539-4641-9514-D41D9A0537B2}
+	EndGlobalSection
+EndGlobal
